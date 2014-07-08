@@ -21,11 +21,11 @@ BEGIN
             VALUE "CompanyName",        "Firecoin"
             VALUE "FileDescription",    "firecoin-Qt (OSS GUI client for firecoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "firecoin-qt"
+            VALUE "InternalName",       "aegis-qt"
             VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The PPCoin developers, 2014 The Firecoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "firecoin-qt.exe"
-            VALUE "ProductName",        "firecoin-Qt"
+            VALUE "OriginalFilename",   "aegis-qt.exe"
+            VALUE "ProductName",        "aegis-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

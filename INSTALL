@@ -1,4 +1,4 @@
-Building Firecoin
-See doc/readme-qt.rst for instructions on building Firecoin QT.
+Building Aegis
+See doc/readme-qt.rst for instructions on building Aegis QT.
 
-See doc/build-*.txt for instructions on building firecoind.
+See doc/build-*.txt for instructions on building aegisd.
