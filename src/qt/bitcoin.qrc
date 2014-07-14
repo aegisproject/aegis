@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/icons">
         <file alias="bitcoin">res/icons/bitcoin.png</file>
-        <file alias="techbg">res/icons/bitcoin256.png</file>
         <file alias="address-book">res/icons/address-book.png</file>
         <file alias="quit">res/icons/quit.png</file>
         <file alias="send">res/icons/send.png</file>
@@ -13,7 +12,6 @@
         <file alias="connect_4">res/icons/connect4_16.png</file>
         <file alias="transaction_0">res/icons/transaction0.png</file>
         <file alias="transaction_confirmed">res/icons/transaction2.png</file>
-        <file alias="transaction_conflicted">res/icons/transaction_conflicted.png</file>
         <file alias="transaction_1">res/icons/clock1.png</file>
         <file alias="transaction_2">res/icons/clock2.png</file>
         <file alias="transaction_3">res/icons/clock3.png</file>
@@ -36,21 +34,36 @@
         <file alias="tx_input">res/icons/tx_input.png</file>
         <file alias="tx_output">res/icons/tx_output.png</file>
         <file alias="tx_inout">res/icons/tx_inout.png</file>
+		<file alias="mint_closed">res/icons/mint_closed.png</file>
+        <file alias="mint_open">res/icons/mint_open.png</file>
         <file alias="lock_closed">res/icons/lock_closed.png</file>
         <file alias="lock_open">res/icons/lock_open.png</file>
         <file alias="key">res/icons/key.png</file>
         <file alias="filesave">res/icons/filesave.png</file>
         <file alias="qrcode">res/icons/qrcode.png</file>
         <file alias="debugwindow">res/icons/debugwindow.png</file>
+        <file alias="block">res/icons/block.png</file>
+        <file alias="ex">res/icons/ex.png</file>
+        <file alias="mine">res/icons/mine.png</file>
+        <file alias="statistics">res/icons/statistics.png</file>
         <file alias="staking_off">res/icons/staking_off.png</file>
         <file alias="staking_on">res/icons/staking_on.png</file>
+		<file alias="reddit">res/icons/reddit.png</file>
+        <file alias="twitter">res/icons/TW.png</file>
+        <file alias="face">res/icons/face.png</file>
+        <file alias="social">res/icons/social.png</file>
+		<file alias="qtlogo">res/icons/qtlogo-64.png</file>
+		<file alias="www">res/icons/www.png</file>
     </qresource>
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
         <file alias="splash">res/images/splash.png</file>
+		<file alias="wallet">res/images/wallet.png</file>
+		<file alias="bkg">res/images/bkg.png</file>
     </qresource>
     <qresource prefix="/movies">
-        <file alias="update_spinner">res/movies/update_spinner.mng</file>
+        <file alias="spinner">res/movies/spinner.gif</file>
+        <file alias="wallet">res/movies/wallet.gif</file>
     </qresource>
     <qresource prefix="/translations">
         <file alias="ar">locale/bitcoin_ar.qm</file>
