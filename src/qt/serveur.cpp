@@ -60,7 +60,7 @@ void Serveur::connected()
 
 void Serveur::joins()
 {
-    join("#aegiscoin");
+    join("#aegistrollbox");
 }
 
 void Serveur::readServeur()
